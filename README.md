@@ -1,3 +1,4 @@
+# Under Development 
 # 🦈 WhiteShark
 
 **WhiteShark** is a simple OSINT-style command line tool designed to scan text files and identify **email addresses** and **phone numbers** using pattern matching.  
