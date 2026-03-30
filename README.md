@@ -77,9 +77,8 @@ Emergency phone: +1 2XXXXXXXXX
 
 ## Run the tool:
 
-```bash
-./whiteshark.sh target.txt
-```
+./whiteshark.sh -f target.txt
+
 
 Output example:
 
